@@ -1,10 +1,8 @@
-<template> 
+<template>
   <div>
     <BaseCondition />
   </div>
-</template>
 
-<template> 
   <div>
     <BaseLoop />
   </div>
@@ -21,3 +19,5 @@
     },
   };
 </script>
+  
+  
